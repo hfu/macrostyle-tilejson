@@ -1,6 +1,12 @@
 {
-    "tilejson": "2.2.0",
-    "tiles": [
-        "https://vectortiles.xyz/zxy/tapioca/{z}/{x}/{y}.pbf"
-    ]
+  "tilejson": "2.2.0",
+  "tiles": [
+    "https://vectortiles.xyz/zxy/tapioca/{z}/{x}/{y}.pbf"
+  ]
+  "vector_layers": [
+     {
+        "id": "vstd",
+        "type": "mvt"
+     }
+  ]
 }
